@@ -1,0 +1,77 @@
+No,Unit,Item Name,Quantity,Remarks
+1,lift-assy,SSEBZ10-235,1,misumi
+2,lift-assy,HTPA14S2M100-K-P3,2,misumi
+3,lift-assy,CLBP3-5-3.5,4,misumi
+4,lift-assy,SB693ZZ,4,misumi
+5,lift-assy,HFSB5-2020-264-TPW,1,misumi
+6,lift-assy,SSFR3-48-WFC0-J6-W12-V6-TB2,1,misumi
+7,lift-assy,SSFR3-41-TA2-TB2,1,misumi
+8,lift-assy,THSR-Lift-020,1,"3D printed part, Black, PLA"
+9,lift-assy,THSR-Lift-050-A,2,"3D printed part, Black, PLA"
+10,lift-assy,HTBN500S2M-100,1,misumi
+11,lift-assy,THSR-Lift-070,1,"3D printed part, Black, PLA"
+12,lift-assy,THSR-Lift-010-A,1,"3D printed part, Black, PLA, infill60%"
+13,lift-assy,THSR-Lift-090,1,"3D printed part, Black, PLA, infill60%"
+14,lift-assy,THSR-Lift-080,1,"3D printed part, Black, PLA"
+15,lift-assy,CBE3-15,9,misumi
+16,lift-assy,CBE5-15,1,misumi
+17,lift-assy,CBE3-10,14,misumi
+18,lift-assy,LBNR3,14,misumi
+19,lift-assy,CBE3-6,4,misumi
+20,lift-assy,CSHSM-SUS-M3-5,4,misumi
+21,lift-assy,THSR-Lift-060,1,"3D printed part, Black, PLA, infill60%"
+22,lift-assy,SHNTP5-3,4,misumi
+23,lift-assy,CBSH5-16,1,misumi
+24,lift-assy,HTPA24S3M060-A-P6,1,misumi
+25,lift-assy,GEABB0.5-15-8-K-3,1,misumi
+26,pulley-assy,XM430-W210-T,1,ROBOTIS
+27,pulley-assy,HILS-turn-shaft-1107,1,"Custom part Meviy, MVTUP-APN-3ZM-M1JEH (Meviy part number)"
+28,pulley-assy,THSR-Lift-040-A,1,"3D printed part, Black, PLA"
+29,pulley-assy,SB676ZZ,2,misumi
+30,pulley-assy,CBSST2-4,4,misumi
+31,gear-assy,XC-330-T181-T,1,ROBOTIS
+32,gear-assy,GEABB0.5-50-2-B-4,1,misumi
+33,gear-assy,HILS-lift-shaft-holder-1113,1,"Custom part Meviy, MVTUP-APN-3ZN-NNWBE (Meviy part number)"
+34,gear-assy,THSR-Lift-030-A,1,"3D printed part, Black, PLA"
+35,gear-assy,SB674ZZ,1,misumi
+36,gear-assy,SCB2-12,3,misumi
+37,gear-assy,SCB2-6,4,misumi
+38,lift-assy,SCB2.5-8,4,misumi
+39,lift-assy,CR-4,1,misumi
+40,lift-assy,SCB4-20,1,misumi
+41,arm-assy,THSR-Arm-010-A,1,"3D printed part, Black, PLA, infill60%"
+42,arm-assy,XM430-W350-T,4,ROBOTIS
+43,arm-assy,HN12-I101 Set,2,ROBOTIS
+44,arm-assy,THSR-Arm-030,1,"3D printed part, White, PLA"
+45,arm-assy,THSR-Arm-040,1,"3D printed part, White, PLA"
+46,arm-assy,THSR-Arm-050,1,"3D printed part, White, PLA"
+47,arm-assy,THSR-Arm-020,1,"3D printed part, White, PLA"
+48,arm-assy,THSR-Arm-060-A,1,"3D printed part, White, PLA"
+49,arm-assy,THSR-Arm-070,1,"3D printed part, White, PLA"
+50,arm-assy,THSR-Arm-080,1,"3D printed part, White, PLA"
+51,arm-assy,SCB2.5-5,14,misumi
+52,arm-assy,SCB2-4,23,misumi
+53,arm-assy,SCB2.5-15,4,misumi
+54,turn-assy,THS-70160,1,misumi
+55,turn-assy,HTPA60S3M060-A-P30,1,misumi
+56,turn-assy,60S3M270G,1,misumi
+57,turn-assy,THSR-Turn-010-A,1,"3D printed part, Black, PLA"
+58,turn-assy,CBSH8-16,8,misumi
+59,turn-assy,KNTR8,8,misumi
+60,turn-assy,THSR-Turn-020-A,1,"3D printed part, Black, PLA"
+61,turn-assy,CBE5-20,4,misumi
+62,Cover,THSR-Lift-100-A,1,"3D printed part, White, PLA"
+63,Cover,THSR-Lift-110-A,1,"3D printed part, White, PLA"
+64,Cover,CBE3-8,6,misumi
+65,other,U2D2,1,ROBOTIS
+66,other,U2D2 PHB Set,1,ROBOTIS
+67,other,aka-12070,1,ROBOTIS
+68,other,Robot Cable-X3P 240mm 10pcs,1,"ROBOTIS, Pack of 10, 2 used per unit"
+69,other,Nintendo Switch Joy-Con (L/R),1,-
+70,other,Nintendo Switch Joy-Con charging grip,1,-
+71,lift-assy,SPWF5,1,misumi
+72,lift-assy,SMKB5-5,1,misumi
+73,lift-assy,WSSS8-6-2.5,1,misumi
+74,lift-assy,PACK-MSSU4-4-YBM,1,"misumi, Pack of 10, used for turn small pulley, 1 used per unit"
+75,lift-assy,PACK-MSSU3-3-YBM,1,"misumi, Pack of 10, used for lift gear/pulley, 3 used per unit"
+76,turn-assy,PACK-MSSU5-6-YBM,1,"misumi, Pack of 10, used for turn large pulley, 2 used per unit"

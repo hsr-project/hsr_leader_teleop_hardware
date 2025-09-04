@@ -1,0 +1,15 @@
+# Normalize line endings for text
+* text=auto eol=lf
+
+# Treat these as binary
+*.pdf binary
+*.step binary
+*.STEP binary
+*.stl binary
+*.STL binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# CSV should be text
+*.csv text eol=lf
